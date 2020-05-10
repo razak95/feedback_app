@@ -13,5 +13,6 @@
 - bekerja tidak pada master, namuns pada brach tersendiri
 - mempush branch baru tersebur ( atau mempush jika sudah ada commit)
 - merubah kode pada branch ter tersebut
-- mengcomit cot code
+- mengcomit code dan mereview perubahan pada file terlebih dahulu
 - mempush branch tersebut
+
