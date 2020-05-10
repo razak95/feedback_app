@@ -21,8 +21,5 @@
 - mengcomit code dan mereview perubahan pada file terlebih dahulu
 - mempush branch tersebut
 
-## Kesimpulan
-- Dengan git dan Github code akan aman dari harddisk rusak 
-- memiliki repository di github yang public, akan menjadikan repository tersebut sebagai portofolio
 
 
