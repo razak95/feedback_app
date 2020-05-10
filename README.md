@@ -7,3 +7,11 @@
 - membuka project yang sudah di clone di command
 - merubah file
 - mengirim file ke github
+
+## menggunakan git di Team
+- mulai bekerja dengan melihat ke issue tracker
+- bekerja tidak pada master, namuns pada brach tersendiri
+- mempush branch baru tersebur ( atau mempush jika sudah ada commit)
+- merubah kode pada branch ter tersebut
+- mengcomit cot code
+- mempush branch tersebut
