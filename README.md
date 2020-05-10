@@ -12,8 +12,6 @@
 - Menggunkan linux cukup dengan menggunak apt instal git
 - tinggal mendownload tools git
 
-
-
 ## Kesimpulan
 - Dengan git dan Github code akan aman dari harddisk rusak 
 - memiliki repository di github yang public, akan menjadikan repository tersebut sebagai portofolio
