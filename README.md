@@ -8,6 +8,9 @@
 - merubah file
 - mengirim file ke github
 
+# instalasi GIT
+- Menggunkan linux cukup dengan menggunak apt instal git
+- tinggal mendownload tools git
 
 ## Kesimpulan
 - Dengan git dan Github code akan aman dari harddisk rusak 
