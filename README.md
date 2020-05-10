@@ -8,6 +8,11 @@
 - merubah file
 - mengirim file ke github
 
+# instalasi GIT
+- Menggunkan linux cukup dengan menggunak apt instal git
+- tinggal mendownload tools git
+
+
 
 ## Kesimpulan
 - Dengan git dan Github code akan aman dari harddisk rusak 
@@ -21,8 +26,6 @@
 - mengcomit code dan mereview perubahan pada file terlebih dahulu
 - mempush branch tersebut
 
-## Kesimpulan
-- Dengan git dan Github code akan aman dari harddisk rusak 
-- memiliki repository di github yang public, akan menjadikan repository tersebut sebagai portofolio
+
 
 
