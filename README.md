@@ -4,7 +4,7 @@
 - Ubah isi file readme.md
 
 # Menggunakan GIT dengan Pycharm
-- pastikan menggunkan pycharm terkini, download di situsnya
+- pastikan menggunkan pycharm terkini, download di situsnya di www.jetbrains.com
 - membuka project yang sudah di clone di command
 - merubah file
 - mengirim file ke github
